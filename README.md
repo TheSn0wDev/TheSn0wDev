@@ -24,7 +24,7 @@ const aboutMe: Required<Sn0wData> = {
     location: 'Montpellier, France',
     internship: {
       company: 'Thales',
-      location: 'Vélizy-villacoublay, France',
+      location: 'Genneviliers, France',
     },
   },
 }
